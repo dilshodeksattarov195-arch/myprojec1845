@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smscalidate",
+        "uuid": 17688015,
+        "checksum": "uop1dh"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
